@@ -1,3 +1,4 @@
+
 -- SQL TUTORIAL
 
 -- Table of content
@@ -44,7 +45,6 @@
 -- 7. **SQL Injections**
 
 -- 8. **COMMIT and ROLLBACK**
-
 
 
 -- "SQL: SQL is a language used to interact with and manage relational databases. 
